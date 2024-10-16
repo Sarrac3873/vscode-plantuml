@@ -367,7 +367,7 @@
   "devDependencies": {
     "@types/mocha": "^2.2.32",
     "@types/node": "^6.0.40",
-    "@types/vscode": "^1.57.0",
+    "@types/vscode": "^1.93.0",
     "js-yaml": "^3.13.1",
     "markdown-it": "^8.3.2",
     "plist": "^3.0.2",
